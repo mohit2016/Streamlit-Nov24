@@ -3,3 +3,4 @@ pandas
 streamlit
 numpy
 seaborn
+pickle
