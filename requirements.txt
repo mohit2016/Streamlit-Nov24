@@ -4,3 +4,4 @@ streamlit
 numpy
 seaborn
 pickle
+yfinance
